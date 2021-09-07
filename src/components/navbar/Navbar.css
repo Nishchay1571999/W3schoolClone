@@ -1,0 +1,11 @@
+.d-flex {
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+  }
+div{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+}

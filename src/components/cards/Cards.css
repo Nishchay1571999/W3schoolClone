@@ -1,0 +1,36 @@
+.html{
+    font-size:100px;
+    font-weight:700;
+    margin-top:-18px!important;
+}
+.card{
+    padding: 30px;
+}
+.btn-group{
+    background-color: #04AA6D; 
+  border: 1px solid green; 
+  color: white; 
+  padding: 10px 24px;
+  cursor: pointer; 
+  width: 50%; 
+  display: block;
+  padding: 4px;
+}
+.btn-group button:not(:last-child) {
+    border-bottom: none;
+  }
+  
+  
+  .btn-group button:hover {
+    background-color: #3e8e41;
+    display: flex;
+    align-self: flex-start;
+    align-content: center;
+
+  }
+  .main-card{
+      padding: 10px;
+      display: flex;
+      align-self: flex-start;
+      width: 100%;
+  }
